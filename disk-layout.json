@@ -5,7 +5,7 @@
                 "boot": true,
                 "encrypted": false,
                 "filesystem": {
-                    "format": "hfs+"
+                    "format": "vfat"
                 },
                 "mountpoint": "/boot",
                 "size": "512MiB",
